@@ -1,0 +1,32 @@
+C:\Users\user\Downloads\FinalProject_StudEnrollment\FinalProject_StudEnrollment\bin\Debug\FinalProject_StudEnrollment.exe.config
+C:\Users\user\Downloads\FinalProject_StudEnrollment\FinalProject_StudEnrollment\bin\Debug\FinalProject_StudEnrollment.exe
+C:\Users\user\Downloads\FinalProject_StudEnrollment\FinalProject_StudEnrollment\bin\Debug\FinalProject_StudEnrollment.pdb
+C:\Users\user\Downloads\FinalProject_StudEnrollment\FinalProject_StudEnrollment\obj\Debug\FinalProject_StudEnrollment.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\FinalProject_StudEnrollment\FinalProject_StudEnrollment\obj\Debug\FinalProject_StudEnrollment.Form1.resources
+C:\Users\user\Downloads\FinalProject_StudEnrollment\FinalProject_StudEnrollment\obj\Debug\FinalProject_StudEnrollment.Properties.Resources.resources
+C:\Users\user\Downloads\FinalProject_StudEnrollment\FinalProject_StudEnrollment\obj\Debug\FinalProject_StudEnrollment.csproj.GenerateResource.cache
+C:\Users\user\Downloads\FinalProject_StudEnrollment\FinalProject_StudEnrollment\obj\Debug\FinalProject_StudEnrollment.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\FinalProject_StudEnrollment\FinalProject_StudEnrollment\obj\Debug\FinalProject_StudEnrollment.exe
+C:\Users\user\Downloads\FinalProject_StudEnrollment\FinalProject_StudEnrollment\obj\Debug\FinalProject_StudEnrollment.pdb
+C:\Users\lioki\OneDrive\Escritorio\COLLG 2023\OTOM23\MULTI TIER APP\FinalProject_StudEnrollment\FinalProject_StudEnrollment\bin\Debug\FinalProject_StudEnrollment.exe.config
+C:\Users\lioki\OneDrive\Escritorio\COLLG 2023\OTOM23\MULTI TIER APP\FinalProject_StudEnrollment\FinalProject_StudEnrollment\bin\Debug\FinalProject_StudEnrollment.exe
+C:\Users\lioki\OneDrive\Escritorio\COLLG 2023\OTOM23\MULTI TIER APP\FinalProject_StudEnrollment\FinalProject_StudEnrollment\bin\Debug\FinalProject_StudEnrollment.pdb
+C:\Users\lioki\OneDrive\Escritorio\COLLG 2023\OTOM23\MULTI TIER APP\FinalProject_StudEnrollment\FinalProject_StudEnrollment\obj\Debug\FinalProject_StudEnrollment.csproj.AssemblyReference.cache
+C:\Users\lioki\OneDrive\Escritorio\COLLG 2023\OTOM23\MULTI TIER APP\FinalProject_StudEnrollment\FinalProject_StudEnrollment\obj\Debug\FinalProject_StudEnrollment.Form1.resources
+C:\Users\lioki\OneDrive\Escritorio\COLLG 2023\OTOM23\MULTI TIER APP\FinalProject_StudEnrollment\FinalProject_StudEnrollment\obj\Debug\FinalProject_StudEnrollment.Properties.Resources.resources
+C:\Users\lioki\OneDrive\Escritorio\COLLG 2023\OTOM23\MULTI TIER APP\FinalProject_StudEnrollment\FinalProject_StudEnrollment\obj\Debug\FinalProject_StudEnrollment.csproj.GenerateResource.cache
+C:\Users\lioki\OneDrive\Escritorio\COLLG 2023\OTOM23\MULTI TIER APP\FinalProject_StudEnrollment\FinalProject_StudEnrollment\obj\Debug\FinalProject_StudEnrollment.csproj.CoreCompileInputs.cache
+C:\Users\lioki\OneDrive\Escritorio\COLLG 2023\OTOM23\MULTI TIER APP\FinalProject_StudEnrollment\FinalProject_StudEnrollment\obj\Debug\FinalProject_StudEnrollment.exe
+C:\Users\lioki\OneDrive\Escritorio\COLLG 2023\OTOM23\MULTI TIER APP\FinalProject_StudEnrollment\FinalProject_StudEnrollment\obj\Debug\FinalProject_StudEnrollment.pdb
+C:\Users\lioki\OneDrive\Escritorio\COLLG 2023\OTOM23\MULTI TIER APP\FinalProject_StudEnrollment\FinalProject_StudEnrollment\obj\Debug\FinalProject_StudEnrollment.Form2.resources
+C:\Users\lioki\OneDrive\Escritorio\COLLG 2023\OTOM23\MULTI TIER APP\FinalProject_StudEnrollment-final\FinalProject_StudEnrollment\bin\Debug\FinalProject_StudEnrollment.exe.config
+C:\Users\lioki\OneDrive\Escritorio\COLLG 2023\OTOM23\MULTI TIER APP\FinalProject_StudEnrollment-final\FinalProject_StudEnrollment\bin\Debug\FinalProject_StudEnrollment.exe
+C:\Users\lioki\OneDrive\Escritorio\COLLG 2023\OTOM23\MULTI TIER APP\FinalProject_StudEnrollment-final\FinalProject_StudEnrollment\bin\Debug\FinalProject_StudEnrollment.pdb
+C:\Users\lioki\OneDrive\Escritorio\COLLG 2023\OTOM23\MULTI TIER APP\FinalProject_StudEnrollment-final\FinalProject_StudEnrollment\obj\Debug\FinalProject_StudEnrollment.csproj.AssemblyReference.cache
+C:\Users\lioki\OneDrive\Escritorio\COLLG 2023\OTOM23\MULTI TIER APP\FinalProject_StudEnrollment-final\FinalProject_StudEnrollment\obj\Debug\FinalProject_StudEnrollment.Form1.resources
+C:\Users\lioki\OneDrive\Escritorio\COLLG 2023\OTOM23\MULTI TIER APP\FinalProject_StudEnrollment-final\FinalProject_StudEnrollment\obj\Debug\FinalProject_StudEnrollment.Form2.resources
+C:\Users\lioki\OneDrive\Escritorio\COLLG 2023\OTOM23\MULTI TIER APP\FinalProject_StudEnrollment-final\FinalProject_StudEnrollment\obj\Debug\FinalProject_StudEnrollment.Properties.Resources.resources
+C:\Users\lioki\OneDrive\Escritorio\COLLG 2023\OTOM23\MULTI TIER APP\FinalProject_StudEnrollment-final\FinalProject_StudEnrollment\obj\Debug\FinalProject_StudEnrollment.csproj.GenerateResource.cache
+C:\Users\lioki\OneDrive\Escritorio\COLLG 2023\OTOM23\MULTI TIER APP\FinalProject_StudEnrollment-final\FinalProject_StudEnrollment\obj\Debug\FinalProject_StudEnrollment.csproj.CoreCompileInputs.cache
+C:\Users\lioki\OneDrive\Escritorio\COLLG 2023\OTOM23\MULTI TIER APP\FinalProject_StudEnrollment-final\FinalProject_StudEnrollment\obj\Debug\FinalProject_StudEnrollment.exe
+C:\Users\lioki\OneDrive\Escritorio\COLLG 2023\OTOM23\MULTI TIER APP\FinalProject_StudEnrollment-final\FinalProject_StudEnrollment\obj\Debug\FinalProject_StudEnrollment.pdb
